@@ -1,44 +1,58 @@
-🛍️ LuxuryCart — Mini E-Commerce React App
+# 🛍️ LuxuryCart — Mini E-Commerce React App  
 
-LuxuryCart is a mini e-commerce web application built with React.js, designed to provide a smooth shopping experience.
-It includes user login, product listings, cart management, and checkout — all implemented using simple React components and localStorage.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-🚀 Features
+---
 
-🔐 Login System (with demo credentials)
+## 🧾 About Project  
 
-🛒 Add to Cart / Remove from Cart functionality
+**LuxuryCart** is a mini e-commerce web application built with **React.js** to simulate a real online shopping experience.  
+It was developed to practice **React state management**, **routing**, and **user session handling** using localStorage.  
+The project demonstrates essential front-end concepts such as component reusability, conditional rendering, and UI interactivity — making it an excellent beginner-friendly React project.  
 
-🔁 Quantity management with live total calculation
+---
 
-💳 Checkout simulation with total price display
+## 🚀 Features
 
-🔍 Product search bar for quick filtering
+- 🔐 **Login System** (with demo credentials)  
+- 🛒 **Add / Remove / Update Cart** items  
+- 💵 **Dynamic total price calculation**  
+- 🔍 **Search Bar** for filtering products  
+- ⚡ **Toast notifications** for actions  
+- 🚪 **Logout + Protected Routes**  
+- 💾 **LocalStorage-based session handling**  
 
-⚡ Toast notifications for actions (add/remove/checkout)
+---
 
-🚪 Logout and route protection using React Router
+## 🧠 Demo Credentials
 
-💾 LocalStorage-based session (no backend required)
+| Email | Password |
+|--------|-----------|
+| `user@example.com` | `test@789` |
 
-🧠 Demo Credentials
-Email	Password
-user@example.com	test@789
-🏗️ Tech Stack
+---
 
-⚛️ React.js (Frontend)
+## 🏗️ Tech Stack
 
-🧭 React Router DOM (Routing)
+| Technology | Purpose |
+|-------------|----------|
+| ⚛️ **React.js** | Frontend framework |
+| 🧭 **React Router DOM** | Navigation & route protection |
+| 🔔 **React Toastify** | Notifications |
+| 💾 **LocalStorage** | User session management |
+| 🎨 **CSS3** | Styling |
 
-🔔 React Toastify (Notifications)
-
-💾 LocalStorage (Session management)
-
-🎨 CSS (Styling)
-
-
+---
 👩‍💻 Author
 
 Priyanka Vishwakarma
-💼 Final Year CSE Student | 💻 Aspiring MERN Developer
-📧 vishwakarmapriyanka971@gmail.com
+🎓 Final Year CSE Student | 💻 MERN Stack Enthusiast
+📧 [vishwakarmapriyanka971@gamil.com
+]
+
+## 📂 Folder Structure
+
